@@ -1,0 +1,14 @@
+# PowerShell
+*.log
+
+# Reports / exports
+reports/
+*.csv
+
+# Credentials / secrets
+.env
+secrets.json
+credentials.json
+
+# macOS
+.DS_Store

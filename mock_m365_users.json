@@ -1,0 +1,52 @@
+[
+  {
+    "displayName": "Son Goku",
+    "userPrincipalName": "goku@example.com",
+    "accountEnabled": true,
+    "userType": "Member",
+    "department": "Engineering",
+    "isAdmin": false,
+    "mfaRegistered": true,
+    "lastSignIn": "2026-09-25"
+  },
+  {
+    "displayName": "Vegeta Prince",
+    "userPrincipalName": "vegeta@example.com",
+    "accountEnabled": true,
+    "userType": "Member",
+    "department": "Engineering",
+    "isAdmin": false,
+    "mfaRegistered": false,
+    "lastSignIn": "2026-09-20"
+  },
+  {
+    "displayName": "Satoru Gojo",
+    "userPrincipalName": "gojo@example.com",
+    "accountEnabled": true,
+    "userType": "Member",
+    "department": "IT",
+    "isAdmin": true,
+    "mfaRegistered": true,
+    "lastSignIn": "2026-09-27"
+  },
+  {
+    "displayName": "Itachi Uchiha",
+    "userPrincipalName": "itachi@example.com",
+    "accountEnabled": false,
+    "userType": "Member",
+    "department": "Contractors",
+    "isAdmin": false,
+    "mfaRegistered": false,
+    "lastSignIn": "2026-03-10"
+  },
+  {
+    "displayName": "Levi Ackerman",
+    "userPrincipalName": "levi_external@example.com",
+    "accountEnabled": true,
+    "userType": "Guest",
+    "department": "External",
+    "isAdmin": false,
+    "mfaRegistered": false,
+    "lastSignIn": "2026-04-15"
+  }
+]
